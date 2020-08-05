@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="56px" viewBox="0 0 32 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>phone_iphone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#99DEFC" offset="0%"></stop>
+            <stop stop-color="#60BAF8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#99DEFC" offset="0%"></stop>
+            <stop stop-color="#60BAF8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#99DEFC" offset="0%"></stop>
+            <stop stop-color="#60BAF8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mockups-💅" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-628.000000, -1843.000000)">
+            <g id="Features" transform="translate(0.000000, 1570.000000)">
+                <g id="phone_iphone" transform="translate(628.000000, 273.000000)">
+                    <path d="M3.42857143,55.952381 L28.5714286,55.952381 C30.4617143,55.952381 32,54.4100893 32,52.514881 L32,4.38988095 C32,2.49467262 30.4617143,0.952380952 28.5714286,0.952380952 L3.42857143,0.952380952 C1.53828571,0.952380952 0,2.49467262 0,4.38988095 L0,52.514881 C0,54.4100893 1.53828571,55.952381 3.42857143,55.952381 Z M29.7142857,42.202381 L2.28571429,42.202381 L2.28571429,12.4107143 L29.7142857,12.4107143 L29.7142857,42.202381 Z M28.5714286,53.6607143 L3.42857143,53.6607143 C2.79771429,53.6607143 2.28571429,53.147381 2.28571429,52.514881 L2.28571429,44.4940476 L29.7142857,44.4940476 L29.7142857,52.514881 C29.7142857,53.147381 29.2022857,53.6607143 28.5714286,53.6607143 Z M3.42857143,3.24404762 L28.5714286,3.24404762 C29.2022857,3.24404762 29.7142857,3.75738095 29.7142857,4.38988095 L29.7142857,10.1190476 L2.28571429,10.1190476 L2.28571429,4.38988095 C2.28571429,3.75738095 2.79771429,3.24404762 3.42857143,3.24404762 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                    <path d="M14.25,7.95238095 L16.75,7.95238095 C17.44,7.95238095 18,7.50438095 18,6.95238095 C18,6.40038095 17.44,5.95238095 16.75,5.95238095 L14.25,5.95238095 C13.56,5.95238095 13,6.40038095 13,6.95238095 C13,7.50438095 13.56,7.95238095 14.25,7.95238095 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                    <circle id="Oval" fill="url(#linearGradient-3)" cx="15.5" cy="48.452381" r="2.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
